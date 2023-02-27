@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Bindu Shree T N !
 # About me 
 I love :book: 🍫 :tea:.
 
