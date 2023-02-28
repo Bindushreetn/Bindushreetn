@@ -9,6 +9,8 @@ I love :book: 🍫 :tea:.
 - :zap: In my free time, I solve problems on HackerRank.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bindu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bindushree-t-n-2399b4228)
+[![Github Badge](https://img.shields.io/badge/-bindu-orange?style=flat&logo=Github&logoColor=white)](https://github.com/Bindushreetn/Bindushreetn)
+[![Gmail Badge](https://img.shields.io/badge/-bindu-red?style=flat&logo=Gmail&logoColor=white)](tnbindushreetn@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=your-github-Bindushreetn&style=flat-square&color=blue" alt=""/>
 
