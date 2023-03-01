@@ -38,8 +38,6 @@ I love :book: 🍫 :tea:.
   <img src="https://img.shields.io/badge/Matplotlib-563D7C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Pyplot-563D7C?style=for-the-badge&logo=pyplot&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-ED8B00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-  
 </p>
 
 ## Tools
@@ -56,9 +54,6 @@ I love :book: 🍫 :tea:.
 
 ## My Contributions
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Bindushreetn&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Bindushreetn&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bindushreetn&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bindushreetn&layout=compact&theme=cobalt&hide_border=true" />
 
