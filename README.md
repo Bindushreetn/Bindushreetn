@@ -2,6 +2,7 @@
 # About me 
 I love :book: 🍫 :tea:.
 
+<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt=""/>
 <img src="https://komarev.com/ghpvc/?username=Bindushreetn&style=flat-square&color=blue" alt=""/>
 
 - :telescope: I’m currently working on the project - Varicose veins detection using deep learning. 
