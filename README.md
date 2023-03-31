@@ -9,6 +9,8 @@ I love :book: 🍫 :tea:.
 
 - :seedling: Exploring Technical Content Writing.
 
+- 😎 I'm interested in exploring new learning skills and interested in Cyber security.
+
 - :zap: In my free time, I solve problems on HackerRank.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bindu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bindushree-t-n-2399b4228)
